@@ -14,8 +14,7 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
     implementation group: 'org.springframework', name: 'spring-webmvc', version: '5.3.7'
     implementation group: 'javax.inject', name: 'javax.inject', version: '1'
-
-
+    implementation group: 'javax.servlet', name: 'jstl', version: '1.2'
 
 
 }
